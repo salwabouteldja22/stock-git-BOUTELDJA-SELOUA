@@ -14,3 +14,4 @@
 # git commit -m "ajout du fichier git ignore"
 # git branch -c feature-alerte
 # git switch feature-alerte
+# git commit -m "implementation des alertes"
