@@ -9,3 +9,4 @@
 # git checkout 8279f9faf4d7504c950f9de9fdb2757af3744284
 # git add GUIDE.md
 # git commit -m "ajout du guide"
+# git switch master
