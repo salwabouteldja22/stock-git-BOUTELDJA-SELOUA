@@ -10,3 +10,6 @@
 # git add GUIDE.md
 # git commit -m "ajout du guide"
 # git switch master
+# git add .
+# git commit -m "mis a jour tarif"
+# git merge feature-alerte
