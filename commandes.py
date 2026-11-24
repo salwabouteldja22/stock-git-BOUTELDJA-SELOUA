@@ -15,3 +15,6 @@
 # git merge feature-alerte
 # git add .
 # git commit -m "merge feature alerte et resolution conflit"
+# git remote add origin https://github.com/salwabouteldja22/stock-git-BOUTELDJA-SELOUA.git
+# git branch -m main
+# git push -u origin main
